@@ -1,5 +1,6 @@
 # GrammarLeap - Defended
 GrammarLeap is a web-based application designed to make grammar learning engaging through gamification. It features interactive games, user leveling, quizzes, missions, and exams to support progressive learning. Built as a thesis project, GrammarLeap uses JavaScript and natural language processing (NLP) tools to automate grammar checks and enhance user experience.
+<br/>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
